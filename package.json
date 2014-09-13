@@ -13,5 +13,12 @@
     "tdd"
   ],
   "author": "aach",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "karma": "^0.12.23",
+    "karma-cli": "0.0.4",
+    "karma-jasmine": "^0.1.5",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "phantomjs": "^1.9.7-15"
+  }
 }

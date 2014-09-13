@@ -1,0 +1,17 @@
+{
+  "name": "kata-js-boilerplate",
+  "version": "1.0.0",
+  "description": "Kata TDD boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kata",
+    "javascript",
+    "js",
+    "tdd"
+  ],
+  "author": "aach",
+  "license": "ISC"
+}

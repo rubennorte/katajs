@@ -1,0 +1,1 @@
+var SUCH_VARIABLE_VERY_USEFUL = 'wow';

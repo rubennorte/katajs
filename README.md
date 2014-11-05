@@ -13,8 +13,6 @@ To install the needed modules run:
 
 Once you have all the modules installed, in order to watch the files and start the kata run:
 
-``node_modules/.bin/karma start karma2.conf.js``
+``npm start``
 
-If you have karma installed globally (which is highly recommended) you can run the next (shorter) command instead:
-
-``karma start karma2.conf.js``
+Karma will start watching your files. Happy coding :D

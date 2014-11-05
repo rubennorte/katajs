@@ -1,4 +1,4 @@
-kata-js-boilerplate
+kataJS
 ===================
 
 Boilerplate to use in JS Katas.
